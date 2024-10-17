@@ -9,7 +9,7 @@ Summary: Mylyn Context Connector: Eclipse IDE
 Version: 3.5.1
 Release: 3
 License: EPL
-URL: http://www.eclipse.org/mylyn
+URL: https://www.eclipse.org/mylyn
 
 # bash fetch-eclipse-mylyn-ide.sh
 Source0: eclipse-mylyn-ide-R_3_5_1-fetched-src.tar.bz2
